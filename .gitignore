@@ -1,0 +1,11 @@
+/target/
+
+.settings/org.eclipse.jdt.ui.prefs
+.classpath
+.project
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+.springBeans
+.settings/org.eclipse.wst.common.project.facet.core.xml
+.settings/org.eclipse.m2e.core.prefs
+*.prefs
